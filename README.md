@@ -1,4 +1,4 @@
-# README: Realtor.ca Scraping Scripts
+# README: Scrape-Listing-from-realtor.ca
 
 This repository contains two Python scripts designed for data scraping from Realtor.ca, leveraging `undetected_chromedriver`, `Selenium`, and `geopy` to extract property information and links. Below are the details of the scripts and their functionalities.
 
